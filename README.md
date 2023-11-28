@@ -16,6 +16,7 @@ Upon landing on the Password Generator page, click on the Generate Password butt
 ![Screenshot of password generator application](/assets/images/screenshotofstillapplication.png)
 ![Screenshot of password generator displaying user prompts](/assets/images/screenshotwithuserprompts.png)
 ![Screenshot of password generator displaying final password](/assets/images/screenshotwithfinalpassword.png)
+![Screenshot of password generator displaying deployed application](/assets/images/deployedWebsite.png)
 
 ## Credits
 
